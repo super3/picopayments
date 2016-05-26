@@ -5,11 +5,11 @@ PicoPayments
 |BuildLink|_ |CoverageLink|_ |LicenseLink|_ |IssuesLink|_
 
 
-.. |BuildLink| image:: https://travis-ci.org/Storj/picopayments.svg
-.. _BuildLink: https://travis-ci.org/Storj/picopayments
+.. |BuildLink| image:: https://travis-ci.org/F483/picopayments.svg
+.. _BuildLink: https://travis-ci.org/F483/picopayments
 
-.. |CoverageLink| image:: https://coveralls.io/repos/Storj/picopayments/badge.svg
-.. _CoverageLink: https://coveralls.io/r/Storj/picopayments
+.. |CoverageLink| image:: https://coveralls.io/repos/F483/picopayments/badge.svg
+.. _CoverageLink: https://coveralls.io/r/F483/picopayments
 
 .. |LicenseLink| image:: https://img.shields.io/badge/license-MIT-blue.svg
 .. _LicenseLink: https://raw.githubusercontent.com/F483/picopayments/master/LICENSE
